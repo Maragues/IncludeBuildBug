@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IncludeBuildbug.iml" filepath="$PROJECT_DIR$/IncludeBuildbug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModulesSDK/ModulesSDK.iml" filepath="$PROJECT_DIR$/ModulesSDK/ModulesSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModulesSDK/ModuleSample/my-module.iml" filepath="$PROJECT_DIR$/ModulesSDK/ModuleSample/my-module.iml" />
+    </modules>
+  </component>
+</project>

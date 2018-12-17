@@ -1,0 +1,6 @@
+rootProject.name = 'ModulesSDK'
+
+include ':my-module'
+
+
+project(':my-module').projectDir = new File("ModuleSample")
